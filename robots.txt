@@ -1,0 +1,6 @@
+User-agent:*
+Allow:/
+
+Sitemap: https://SwanSwim166.github.io/SwanSwim166_github_io_zp533_14.txt
+Sitemap: https://SwanSwim166.github.io/SwanSwim166_github_io_zp533_23.txt
+Sitemap: https://SwanSwim166.github.io/SwanSwim166_github_io_zp533_6.txt
